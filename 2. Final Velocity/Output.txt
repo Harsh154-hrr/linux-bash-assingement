@@ -1,4 +1,4 @@
-ambrish@ambrish-PC:~/Desktop$ ./Velocity.sh
+harsh@harsh-PC:~/Desktop$ ./Velocity.sh
 Write a BASH shell script to calculate final velocity (v) of an object, where an initial velocity (u), acceleration (a) and time_duration (t) is given as an input. The formula that will be used is v = u + a*t.
 initial velocity (u)
 6
